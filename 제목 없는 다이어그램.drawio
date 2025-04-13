@@ -541,6 +541,9 @@
         <mxCell id="kW_ocDge__aSZDnSdW5C-147" value="aluSrcMuxSel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="170" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-148" value="opcode&lt;div&gt;func7&lt;/div&gt;&lt;div&gt;func3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
