@@ -10,6 +10,65 @@
         <mxCell id="kW_ocDge__aSZDnSdW5C-3" value="control unit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="371" y="90" width="86" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kW_ocDge__aSZDnSdW5C-4" target="kW_ocDge__aSZDnSdW5C-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-4" value="regFilewe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-9" value="we" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-11" value="RA1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-12" value="RA2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-13" value="WA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-14" value="WD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kW_ocDge__aSZDnSdW5C-15" target="kW_ocDge__aSZDnSdW5C-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-15" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-16" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-17" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-24" value="ALU" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kW_ocDge__aSZDnSdW5C-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="280" as="sourcePoint" />
+            <mxPoint x="410" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-26" value="RD1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="311" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="kW_ocDge__aSZDnSdW5C-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="354.71" as="sourcePoint" />
+            <mxPoint x="499" y="354.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW_ocDge__aSZDnSdW5C-27" value="RD2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="311" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
